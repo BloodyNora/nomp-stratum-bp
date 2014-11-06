@@ -28,7 +28,7 @@
         "url": "https://github.com/ganjitoka/nomp-stratum-bp.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/ganjitoka/nomp-stratum-bp.git",
+        "multi-hashing": "git://github.com/ganjitoka/nomp-multi-hashing-bp.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
